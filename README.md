@@ -1,4 +1,5 @@
-FNP Sales and Customer Analysis Dashboard
+FNP Sales and Customer Analysis Dashboard  
+
 This project presents a comprehensive sales and customer behavior analysis for Ferns N Petals (FNP) based on their 2023 order dataset. It highlights key business insights, identifies growth opportunities, and visualizes performance across products, regions, and occasions.
 
 📌 Project Objective
