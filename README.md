@@ -3,7 +3,7 @@
 This project presents a comprehensive sales and customer behavior analysis for Ferns N Petals (FNP) based on their 2023 order dataset. It highlights key business insights, identifies growth opportunities, and visualizes performance across products, regions, and occasions.
 
 # Dashboard Screenshot
-
+![alt text](https://github.com/KaranKapadia03/FNP-Sales-and-Customer-Analysis/blob/main/Project%20ScreenShots/Screenshot%202025-04-11%20120652.png)
 
 # Project Objective
 To uncover data-driven insights from FNP's order history and customer information using visual analytics, with the goal of supporting marketing, sales, and operational strategy.
